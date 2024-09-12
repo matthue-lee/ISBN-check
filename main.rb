@@ -17,6 +17,6 @@ end
 
 # Example Usage:
 
-isbn_13 = '978030640615'
+isbn_13 = '978014300723'
 
 puts "ISBN-13 check digit: #{ISBNValidator.isbn_13_check_digit(isbn_13)}"
